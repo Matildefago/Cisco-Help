@@ -22,7 +22,7 @@
    
 2. Dare un nome al dominio
    ```
-   switch(config)# hostname nome_dispositivo
+   switch(config)# domain nome_dispositivo
    ```
 
 3. Generare le chiavi
